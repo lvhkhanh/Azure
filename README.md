@@ -1,5 +1,7 @@
 # Azure
 
+https://www.syncfusion.com/ebooks/app-modernization-on-azure-succinctly
+
 https://www.pluralsight.com/partners/microsoft/azure
 
 [Pluralsight](https://pluralsight.com) - [@KhanhLVH](https://app.pluralsight.com/profile/KhanhLVH)
