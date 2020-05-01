@@ -1,5 +1,6 @@
 # Azure
-
+## Books
+### https://www.syncfusion.com/ebooks/azure-cognitive-service-succinctly
 https://www.syncfusion.com/ebooks/app-modernization-on-azure-succinctly
 
 https://www.pluralsight.com/partners/microsoft/azure
