@@ -9,4 +9,5 @@ https://www.pluralsight.com/partners/microsoft/azure
 
 * [Microsoft Azure Developer: Ensuring Configurability](https://app.pluralsight.com/library/courses/microsoft-azure-ensuring-configurability/table-of-contents)
 ## Paths
+### https://app.pluralsight.com/paths/skills/managing-microsoft-azure-compute
 ### https://app.pluralsight.com/paths/conference/microsoft-ignite-2019-modernizing-web-applications
