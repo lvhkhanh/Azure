@@ -11,3 +11,6 @@ https://www.pluralsight.com/partners/microsoft/azure
 ## Paths
 ### https://app.pluralsight.com/paths/skills/managing-microsoft-azure-compute
 ### https://app.pluralsight.com/paths/conference/microsoft-ignite-2019-modernizing-web-applications
+## Features
+### Functions
+### Durable Functions: call many Functions
