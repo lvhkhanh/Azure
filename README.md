@@ -14,3 +14,5 @@ https://www.pluralsight.com/partners/microsoft/azure
 ## Features
 ### Functions
 ### Durable Functions: call many Functions
+## How to
+### Add member to multi groups at once 
